@@ -1,4 +1,4 @@
-require 'CSV'
+require 'csv'
 
 company_data = CSV.read('./files/score-companies.csv')
 headers = company_data.shift.map {|i| i.to_s }

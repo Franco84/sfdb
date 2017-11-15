@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  candidate_id: 1
+  communication_score: 1
+  coding_score: 1
+  title: MyString
+  company_id: 1
+  fractal_index: 1.5
+
+two:
+  candidate_id: 1
+  communication_score: 1
+  coding_score: 1
+  title: MyString
+  company_id: 1
+  fractal_index: 1.5
